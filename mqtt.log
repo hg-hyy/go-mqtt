@@ -1,0 +1,4 @@
+2021/04/15 19:14:22 C:/Users/littl/Desktop/mqtt-sub/main.go:108: Received:TOPIC: test
+2021/04/15 19:14:22 C:/Users/littl/Desktop/mqtt-sub/main.go:138: writeFile success
+2021/04/15 19:15:07 C:/Users/littl/Desktop/mqtt-sub/main.go:108: Received:TOPIC: test
+2021/04/15 19:15:07 C:/Users/littl/Desktop/mqtt-sub/main.go:138: writeFile success
